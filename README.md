@@ -1,7 +1,7 @@
 # "Artem Machine Learns Human Activity"
 
-- author: "Artem Vovk"
-- date: "April 9, 2017"
+- author: "Justina Onyeukwu"
+- date: "June 11, 2019"
 - output: [HTML](PML.html)
 
 ## What I submitted
@@ -16,4 +16,4 @@ Your submission for the Peer Review portion should consist of a link to a Github
 
 Apply your machine learning algorithm to the 20 test cases available in the test data above and submit your predictions in appropriate format to the Course Project Prediction Quiz for automated grading.
 
-**Result: 18/20**
+
