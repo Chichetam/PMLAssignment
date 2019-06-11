@@ -1,8 +1,8 @@
 ---
 title: "Artem Machine Learns Human Activity"
-author: "Artem Vovk"
-date: "April 9, 2017"
-output: html_document
+author: "Justina Onyeukwu"
+date: "June 11, 2019"
+
 ---
 
 ```{r setup, include=FALSE}
