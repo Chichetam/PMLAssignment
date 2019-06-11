@@ -1,4 +1,4 @@
-# "Artem Machine Learns Human Activity"
+# "Machine Learns Human Activity"
 
 - author: "Justina Onyeukwu"
 - date: "June 11, 2019"
