@@ -112,4 +112,4 @@ predArmTest <- predict(modArm_rf, testing)
 table(predBeltTest, predForearmTest, predArmTest)
 ```
 
-I don't have the `classe` variable in the testing set; but I passed the quiz!
+
